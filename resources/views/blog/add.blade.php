@@ -6,7 +6,7 @@
         <div class="col-md-8">
             <div class="card">
                 <div class="card-header">
-                <a class="nav-link" href="{{ url('category') }}">{{ __('Add Blog') }}</a>
+                <a class="nav-link" >{{ __('Add Blog') }}</a>
                 </div>
 
                 <div class="card-body">
